@@ -56,6 +56,12 @@
 						link: "https://github.com/David-Sajina/Galerija-CMS",
 					},
 					{
+						title: "Peer2Peer Collaborative PDF viewer/ PDF transfer files",
+						description:
+							"A collaborative PDF viewer/transferer using P2P connection",
+						link: "https://github.com/David-Sajina/p2p-collabarative-pdf-viewer",
+					},
+					{
 						title: "FuelPriceTracking",
 						description:
 							"Java android app project -  Application for tracking fuel prices",
